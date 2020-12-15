@@ -2,204 +2,66 @@
 title: Syllabus
 ...
 
-# Units
+# Course Information
 
-The course will be divided into 6 units:
+## Course Description
 
-1. Design and Analysis of Divide and Conquer Algorithms
-1. Survey of Sorting Algorithms, including an Introduction to Randomized Algorithms
-1. Design and Analysis of Dynamic Programming Algorithms
-1. Design and Analysis of Greedy Algorithms
-1. Survey of Graph Algorithms
-1. Design and Analysis of Algorithms using Reductions, including NP-Completeness
+Did you just take CS 1110 and enjoy it, but you don’t know anything about the field of Computer Science? Are you pushing for a Computer Science minor but you don’t know what it could be useful for? Or, maybe you’re just interested in technology, and you want to know how computers work without taking a course like Computer Architecture. No matter what the case, if you want to know more about Computer Science, this course is for you. This course is designed to give a brief overview of the different programming practices, the theory behind Computer Science, and the many fields you can go into after graduation with as little code as possible. Topics covered in this course include: quantum computing, cybersecurity, machine learning and artificial intelligence, data analysis, bioinformatics, and many more. Throughout this course you’ll learn, laugh, cry, and most importantly learn to be incredibly afraid of computers, it’ll be a lot of fun!
+
+## Contact
+
+|        | Nate Brunelle | Ibrahim Hamdy | 
+|--------|---------------|---------------|
+| Location | [Zoom](https://virginia.zoom.us/my/profnateb)  |   [Zoom](https://virginia.zoom.us/my/ibrahimhamdy)   |
+| Office Hours | NA     |   Fridays (Time TBA)   |
+| Phone | TBA            |   (276)-734-4941    |
+| Email | <a href="mailto:njb2b@virginia.edu?subject=CS 1501">njb2b@virginia.edu</a> | <a href="mailto:ihh3fz@virginia.edu?subject=CS 1501">dwu4@virginia.edu</a> |
 
 # Logistics
 
 ## Meetings
 
-Live zoom lectures will be held Tuesdays and Thursdays at 2pm. Live workshops will be held Tuesdays and Thursdays at 12:30 pm.
+Live zoom lectures will be held Wednesdays at 3pm.
 
 Attending lecture or viewing a recording is expected. Attending workshops or viewing a recording is optional but recommended. Recordings of lectures and workshops are provided on the [schedule page](schedule.html) (click for more information under the appropriate date).
 
-
-## Contact
-
-|        | Nate Brunelle | David Wu | TAs |
-|--------|---------------|----------|-----|
-| Location | [Zoom](https://virginia.zoom.us/my/profnateb)  |   [Zoom](https://virginia.zoom.us/j/97533277456?pwd=T1p6bERZRTFmQklZZktuWnVNTnNxUT09)   |TBA |
-| Office Hours | MW 2pm-4pm     |   Tues 3:15-4:45pm    |TBA |
-| Phone | TBA            |   TBD    |(none) |
-| Email | <a href="mailto:njb2b@virginia.edu?subject=DMT1">njb2b@virginia.edu</a> | <a href="mailto:dwu4@virginia.edu?subject=DMT1">dwu4@virginia.edu</a> | use [Piazza](https://piazza.com/virginia/fall2020/cs4102) |
-
-For communication about course content, [Piazza](https://piazza.com/virginia/fall2020/cs4102) is preferred to email.
-For communication about personal circumstances, email or in-person visits are preferred.
-If you email, include either "algorithms" or "4102" in the subject line to prevent your email from skipping the inbox and never getting read.
-
-Our TAs are students too, with duties and work outside of their TAing. Please do not ask them to act as your TA except at the scheduled on-the-clock times they have listed as their office hours. They are also kind people; please don't put them in the position of having to say no or (worse) being nice to you at the expense of their own schooling.
-
-
 ## Readings
 
-There is no required textbook for this class. If you would like to consult a text to reinforce your learning, we recommend:
-
-*Introduction to Algorithms*, Third Edition by Cormen, et. al. (ISBN 0262033844).
-UVA Library makes a digital version of our textbook [available online](https://search.lib.virginia.edu/catalog/u6757775).
-
-Readings corresponding to each lecture will be posted on the course schedule.
-
+There is no required textbook for this class. There will be assigned readings attached to each lecture that will provide context and some interesting information about each lecture. You can find these linked under each lecture's tab on the "schedule" page. It is recommended that you read these before you come to class as they are usually good resources for understanding, however they are optional.
 
 ## Lectures
 
-We do our best to make lectures as valuable, engaging, and enlightening as possible for all
-students. For a schedule of lecture topics, please see the [course webpage](schedule.html).
-We will post all lecture materials (recordings, slides, documents, etc.) on the course
-webpage, including video recordings of lectures. Be advised that there are occasional technical difficulties which sometimes cause the recordings to fail, in these situations we will post an equivalent recording from a previous semester.
+Lectures will be held via [Zoom](https://virginia.zoom.us/my/ibrahimhamdy). Additionally, you can click on the "Online Meetings" tab on Collab to find the link.
 
-Lectures will be held via [Zoom](https://virginia.zoom.us/j/95047118539)
+## Course Components {#tasks}
 
-## Workshops
-
-Workshops are optional and intended to reinforce lecture content through thorough discussion of example problems. These might include mathematical derivations of topics mentioned in class, example proofs similar to those you might see in your exercises, or a live walk-through of how to develop an algorithm. Each session will have a 1-lecture delay, so topics discussed in Tuesday's lecture will be reinforced in Thursday's workshop; topics discussed in Thursday's lecture will be reinforced in Tuesday's workshop. We will post all associated materials (recordings, slides, documents, etc.) on the course
-webpage, including video recordings of each session.
-
-Workshops will be held via [Zoom](https://virginia.zoom.us/j/95047118539).
-
-## Tasks {#tasks}
-
-You will be expected to watch lectures, read the text, and any other provided instructional materials and either understand them or ask questions to clarify what you found confusing. We strongly recommend forming study groups that meet at least weekly all semester long to discuss course concepts, as even if they appear simple at first they will often contain nuances that will only emerge with conversions.
-
-You will be asked to perform two kinds of evaluations:
-
-- **Quizzes**: open-resource assessments of your understanding of broad course topics. These are intended to verify that you develop and maintain an understanding of the course concepts. These must be completed independently. They will occur after each major unit throughout the semester. You will be alotted up to 3 attempts at each assessment. Only the grade from your last attempt per each assessment is is used in your final grade calculation.
-- **Exercises**: homework problems for you to solve. These may require that your design novel algorithms or compose formal mathematical arguments. These are to provide opportunities for you to develop working familiarity with course concepts. You are encouraged to work on these with a small work group of up to 5 people (yourself plus 4). We suggest working on the problems in frequent 1-2 hours sessions, rather than trying to "cram" a solution. There is no opportunity for revising/re-attempting exercises (though you are allowed unlimited re-submissions up until the deadline).
+- **Lectures**: This will be an entirely lecture-based course. We will meet at the scheduled time via zoom, where we’ll discuss the topic of that day’s lecture. Attendance for lectures is mandatory, and each lecture you show up to will be worth 4 points for a maximum of 48 points.
+- **Quizzes**: Each week, you will have one quiz to test your understanding of the material covered in the lecture, and give you an opportunity to ask questions of your own that you feel were not answered in lecture. These quizzes will be open-note and open-internet, but must be taken individually. You are not allowed to work with other people on these quizzes and doing so is an honor violation. Additionally, all resources on the internet must be pre-existing, you are not allowed to post questions on message boards or other websites for help. They really should be easy enough that it shouldn't be necessary. There will be 14 quizzes in total with the lowest 4 dropped. Each quiz will be worth 4 points for a maximum of 40 points of your grade. Quizzes will be due every week at 2:55pm on Wednesdays right before class.
+- **Final Exam**: The final exam will be worth 12 points and will be taken during the allotted time slot (TBA). Because this class is pass/fail, if you have enough points to pass the class without taking the exam, you don't have to show up. The final exam will be open-note, open-internet, and individual, same as the quizzes. It isn't really meant to be a "final" per se, it's more just another short quiz and a space where you can chat and destress from exams. I want this class to be helpful and fun, not stressful.
 
 
 
 # Grading
 
-In February 2019 the CS faculty approved [a definition](http://ugrads.cs.virginia.edu/grading-guidelines.html) of what it believe grades mean.
-It is our intent to approximate that definition in this course.
-As a brief summary,
-
-Letter  Student demonstrated                Recommendation re future courses[^future]
-------  ---------------------------         ------------------------------------
-A       mastery of all topics               likely to do well
-B       competence in significant topics    able to do well with some review
-C       sufficient competence               likely to be challenging
-D       minimal competence                  unlikely to succeed
-F       less than minimal competence        retake this course first
-
-[^future]:
-    While there are no regularly-offerred UVA undergraduate courses which list cs4102 as a prerequisite, this recommendation will be mostly relative to a hypothetical follow-on course.
-
-We will consider the grade assigned by the following point-based breakdown to be a **guideline** for the grade earned according to the definitions above.
-
-Letter  Student demonstrated                Requirement for that grade
-------  ---------------------------         ------------------------------------
-A       mastery of all topics               At least 85% in all units
-B       competence in significant topics    At least 75% in all units
-C       sufficient competence               At least 68% average across all units
-D       minimal competence                  At least 60% average across all units
-F       less than minimal competence        average across all units less than 60%
-
-
-Each unit's grade will be determined by equal weight of Quizzes and Exercises. You grade per unit will be calculated using the following formula:
-
-
-Task                        Weight  Comments
--------------------------  -------- ----------------------------------------------
-Quizzes                     50%     1 per unit, 6 total. You may make up to 2 attempts at each and 3 attempts at any one quiz, with only the last attempt counting toward your unit grade
-Exercises                   50%     Approximately 2 per unit, 12 total. Expect roughly 1/3 of effort to be programming exercises, 2/3 will be written (i.e. proof-based). Your excercise score for each unit is determined by the average score on exercises associated with that unit.
-Professionalism Penalty    0--100%  Rude behavior toward instructor or classmates, unauthorized homework assistance, contacting TAs when they are not on the clock, etc., can be held against a student when final grades are calculated.
-
-More precisely, your final letter grade will be determined by the following:
-
-You get (CR/GC/NC) if you score                           GPA value
-------- ---------- -------------------------------------  ---------
-A+      (CR)       near the top                            4.0
-A       (CR)       ≥ 85% on all units                      4.0
-A−      (CR)       ≥ 83% on all units                      3.7
-B+      (CR)       ≥ 83% average across units              3.3
-B       (CR)       ≥ 80% average across units              3.0
-B−      (CR)       ≥ 78% average across units              2.7
-C+      (CR)       ≥ 73% average across units              2.3
-C       (CR)       ≥ 68% average across units[^noCminus]   2.0
-D+      (GC)       ≥ 63% average across units              1.3
-D       (GC)       ≥ 60% average across units              1.0
-D−      (GC)       ≥ 58% average across units              0.7
-F       (NC)       otherwise                                0.0
-
-[^noCminus]: Since the CS department uses C- as the lower threshold for prerequisites, the university guidelines say that GC cannot be used to satisfy re-requisites, and C- being categorized as GC by the university, we feel the most fair thing to do is to remove the C- level from the grading scale entirely, instead rounding up all C- grades to a C.
-
-
-**Rounding:** By default, grades will not be rounded in this course.
-
-This numerical calculation is to be considered a **guideline** on your score in the course. Final letter grades may take other factors into account so that your grade is the most accurate reflection of your understanding of course materials. We expect that qualitative adjustments will only result in a student's grade increasing.
-
-As a warning, since there is a discontinuity in grade calculation (i.e. we go from grades being determined by your lowest unit to your average across all units) it is possible for some of you to see small perturbations in your grading result in a change of up to 2 letter grades. We do not see this as being a likely scenario, but you find yourself in that situation, let us know so we can ensure you're assessed fairly.
-
-## Bonus Points
-
-Bonus points are the main way for you to earn a grade above the mathematical calculation above. These can be earned by excpetional participation in workshops, lecture, or office hours. They can also be earned by engagement with algorithms topics beyond the course expectation. To submit extra credit, please email both of Professors Brunelle and Wu.
-
+| Description | Points |
+|-------------|--------|
+| Attendance  | 48 |
+| Quizzes | 40 |
+| Final Exam | 12 |
 
 ## Deadlines
 
-Deadlines for all assignments are available on the [schedule page](schedule.html).
+The deadline for each quiz is at 2:55pm on the Wednesday after the quiz is released. Quizzes will also be released each Wednesday directly after lecture.
 
-Late submissions of a problem will generally not be accepted. If you feel that extenuating circumstances justify late submission for any assignment, please request a deadline extension. You can do that on the same page where you would submit an assignment. There is no upper bound on the number of assignment extensions you may be granted, but past extensions may influence our decision on whether to grant future extensions. 
+Late submissions will be accepted up to three days past the due date for a penalty of 1 point for every 24 hours after the deadline. If outside circumstances prevent you from turning in a quiz or create other complications, please let me know and I can help work with you. There are also quite a few quizzes dropped from your grade to pad out accidentally missed quizzes and incorrect questions.
 
-## Regrades
+## Returned Grades and Regrades
 
-We acknowledge that professors and TAs are people, and people make mistakes. For this reason, you are able to request regrades on assignments within 5 days of your grade being returned.
+Alas, I am only a man, and I will probably make mistakes in my grading. If you feel like you want something to be regraded, please send me an email with the quiz number and your reasoning for why you want a regrade.
 
-Please only submit a regrade request if you believe the rubric was misapplied to your submission. In your request, identify specifically which rubric item was erroneously assessed, and where in your submission we can find the evidence of this.
+Additionally, I am only one person, meaning it could take a few days (or more) to finish grading each week's quizzes. I apologize if the grading is slow, but I promise I will get everything in as early as I can!
 
 # Miscellanea
-
-## Pledge
-
-All students of CS4102 are expected to abide by the [course pledge](pledge.html).
-
-## Professionalism
-
-Behave professionally.
-
-Never abuse anyone, including the emotional abuse of blaming others for your mistakes.
-Kindness is more important than correctness (and I have in the past adjusted grades both up and down to reflect this ethos).
-
-Let our TAs be students when they are not on the clock as TAs.
-
-Lack of professionalism has an overall detrimental impact on our community of learning, and therefore egregiously unprofessional behavior could incur arbitrary penalty to your grade.
-
-## Honesty
-
-I always hope everyone will behave honestly.
-I know we all are tempted to do what we ought not;
-if you do something you regret, the sooner you tell me the sooner (and more leniently) we can correct it.
-
-### No plagiarism (nor anything like it)
-
-**Quizzes**: You must complete quizzes entirely on your own, do not discuss the contents of a quiz with anyone outside the course staff prior to its deadline. You may use only officially-provided or personally-created materials when completing at-home assessments. This means you may only use:
-
-- The course textbook
-- Anything on the course webpage or linked to from the course webpage
-- Your *personal* notes (or those of a note-taker if you receive them as official accommodation)
-- Lecture recordings
-
-**Exercises**: You may collaborate with up to 4 other people (i.e. a group of up to 5 total) when completing exercises. You may additionally use external materials with following restrictions:
-
-- Your write-ups must be done entirely independently. You may not reference the web or any artifacts from your collaborations when writing up your solution/code, and so we expect that the answers you submit be expressed in your own words/implementation. 
-- You must understand everything you submit. Do not submit anything you could not explain to a member of the course staff.
-- You **must** cite any and every source you consult beyond officially-provided materials (see list above). Included in your citation, you must identify which components of your submission came from each source (it will be understood that content with no citation is your own exclusive work). Your collaborators are considered to be sources, and so should be cited. An example citation might look like: "I collaborated with David Evans on the pdf style, I consulted \url{https://www.overleaf.com/learn/latex/Aligning\%20equations\%20with\%20amsmath} for help with the align environment, Robbie Hott helped me to debug the for loop on line 107 of my code."
-- Do not seek "hints" or entire solutions to the problems. Limit your searching to background information only. Don't use Chegg.
-
-
-### Consequences of Dishonesty
-
-If we believe you have acted dishonestly, we will communicate this fact to you and propose a penalty.
-If you have information we lack, please share that with us; we may thereafter change our beliefs and/or proposed penalty.
-
 
 ## Personal accommodations
 
