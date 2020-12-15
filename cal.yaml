@@ -30,12 +30,13 @@ sections:
 
 lectures:
     - Welcome
-    - Intro to Divide and Conquer
+    - Logic and Gates
+    - Numbers
 
     
 reading:
-    Intro to Divide and Conquer:
-        - "CLRS ch.3 all, 4.1, 4.1"
+    Logic and Gates:
+        - [youtube video](https://www.youtube.com)
     
         
 assignments:
