@@ -1,0 +1,52 @@
+Special Dates:
+  Courses begin: 2020-02-01
+  Courses end: 2020-05-06
+  Break Day 1: 2020-02-17
+  Break Day 2: 2020-03-09
+  Break Day 3: 2020-03-29
+  Break Day 4: 2020-04-15
+  Add deadline: 2020-02-16
+  Drop deadline: 2020-03-23
+  Withdraw deadline: 2020-05-13
+  Registrar's Final Date: 2020-12-04
+
+meta:
+  timezone: America/New_York
+  name: Algorithms
+  lecture exam: true
+  home: https://www.cs.virginia.edu/~njb2b/cs4102/f20/
+  final:
+    start: 2020-07-11 10:30:00
+    duration: 180
+    room: NA
+
+sections:
+  Brunelle:
+    type: lecture
+    room: NA
+    days: [Wednesday]
+    start: 14:00:00
+    duration: 75
+
+lectures:
+    - Welcome
+    - Intro to Divide and Conquer
+
+    
+reading:
+    Intro to Divide and Conquer:
+        - "CLRS ch.3 all, 4.1, 4.1"
+    
+        
+assignments:
+    ".groups":
+        misc:
+            portion: "1"
+            
+    Exercise_0:
+        group: misc
+        due: 2020-02-10 23:59:59
+        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/f20/exercises.html'
+        weight: 1
+        files: 'exercise0.pdf'
+
