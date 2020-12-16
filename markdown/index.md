@@ -42,7 +42,7 @@ You will see the following components in this course this semester. Look in the 
 
 - **Lectures**: Introduces and explains all topics in the course. This is the primary component of the course
 - **Quizzes**: Individual work to evaluate your fluency and understanding of each of the course concepts
-- **Weekly Meetings**: We will have weekly meetings on Fridays (time TBA) to discuss concepts brought up during that week's lecture and answer questions. These meetings are completely optional
+- **Chats (optional)**: We will have weekly chats on Fridays (time TBA) to discuss concepts brought up during that week's lecture and answer questions. These meetings are completely optional
 
 ## Other Notes
 
@@ -53,6 +53,6 @@ As many of you have probably guessed, this class will be taught entirely online.
 This is my first time teaching this course, so if things don't go well at first, please forgive me. I've never tried something like this before 
 As many of you have probably guessed, this class will be taught entirely online. Because of this and the many problems that come with it, I will be doing my best to help everyone get accomodated, so if you have any issues with this course or any others, please forgive me as I try to figure things out.
 
-### Friday Meetings
-We will also have optional meeting on Fridays (time TBA) to just discuss the topics covered in lecture and on the homeworks that week. This is where I can help with homeworks and answer questions about the topics covered. I will also do my best to provide career advice, or at least point you towards resources that can give better advice than me. The purpose of this class is really just to help you, and I want to make these meetings very unstructured and open so that I can answer any questions you have.
+### Friday Chats
+We will also have optional meetings on Fridays (time TBA) to just discuss the topics covered in lecture and on the homeworks that week. This is where I can help with homeworks and answer questions about the topics covered. I will also do my best to provide career advice, or at least point you towards resources that can give better advice than me. The purpose of this class is really just to help you, and I want to make these meetings very unstructured and open so that I can answer any questions you have.
 

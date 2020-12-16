@@ -20,7 +20,7 @@ title: Syllabus
 
 Live zoom lectures will be held Wednesdays at 3pm.
 
-Attending lecture or viewing a recording is expected. Attending workshops or viewing a recording is optional but recommended. Recordings of lectures and workshops are provided on the [schedule page](schedule.html) (click for more information under the appropriate date).
+Attending lecture or viewing a recording is expected. Recordings of lectures and workshops are provided on the [schedule page](schedule.html) (click for more information under the appropriate date).
 
 ## Readings
 
