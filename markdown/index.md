@@ -1,28 +1,30 @@
 ---
 title: cs1501
 ...
+# Why take this course?
+
+Did you just take CS 1110 or 2110 and enjoy it, but you don’t know the how "Computer Science" is different from "programming"? Are you considering a Computer Science major or minor but you don’t know what how to apply it outside of software development? Or, maybe you’re just interested in technology, and you want to know how computers work without taking a course like Computer Architecture. No matter what the case, if you want to know more about Computer Science, this course is for you. We hope to give a brief overview of the different programming practices, the big ideas behind Computer Science, and the many applications fields you can go into after graduation. Topics covered in this course include: quantum computing, cybersecurity, machine learning and artificial intelligence, data analysis, bioinformatics, and more! Throughout this course you’ll learn, laugh, cry (happy tears!), and most importantly learn to be incredibly impressed by (and maybe even a little afraid of) computers. It’ll be a blast!
 
 
 # Course Overview 
 
-The goal of this course is to provide a deeper understanding of the field of Computer Science and the different career paths possible. In particular, we will take a look at the following topics:
+The goal of this course is to provide a deeper understanding of the field of Computer Science and the different career paths available. In particular, we will take high level glances at the following:
 
-- How we store, understand, and manipulate data to our advantage
-- Functions, implementations, and how the tools we use affect what we can do
-- Binary Logic and Circuits
-- Algorithms and techniques we can use to become better programmers
-- Computer networks and the internet
-- Cybersecurity and cryptography
-- Artificial intelligence, machine learning, and artificial general intelligence
-- Genes and bioinformatics
+- How computers store, represent, and manipulate all sorts of things
+- How those representations can help and hinder what we can do with computers
+- How computers are actually able to enable certain applications, including:
+    - Computer networks and the internet
+    - Security and Encryption
+    - Intelligence and learning
+    - Genes and bioinformatics
 
 ## Learning Outcomes
 
 By the end of this course, you will have:
 
 - Covered different topics that you will learn in other cs courses in a brief and interesting way
-- Discuss the theory behind computer science, the more abstract concepts, and give a more in-depth understanding of what computer science is and what the field aims to achieve
-- Look at different disciplines, career paths, cutting edge research and advancements in the field
+- Discuss abstract concepts that motivate how we implement and use computers
+- Look at different application areas, career paths, cutting edge research and advancements in the field
 - Provide an overall better understanding of the computer science field as a whole and what the field is capable of
 - Become more prepared for the CS curriculum and have a better understanding of the CS field both in industry and academia
 
@@ -51,5 +53,5 @@ This is my first time teaching this course, so if things don't go well at first,
 As many of you have probably guessed, this class will be taught entirely online. Because of this and the many problems that come with it, I will be doing my best to help everyone get accomodated, so if you have any issues with this course or any others, please forgive me as I try to figure things out.
 
 ### Friday Meetings
-We will also be meeting on Fridays (time TBA) to just discuss the topics covered in lecture and on the homeworks that week. This is where I can help with homeworks and answer questions about the topics covered. I will also do my best to provide career advice, or at least point you towards resources that can give better advice than me. The purpose of this class is really just to help you, and I want to make these meetings very unstructured and open so that I can answer any questions you have.
+We will also have optional meeting on Fridays (time TBA) to just discuss the topics covered in lecture and on the homeworks that week. This is where I can help with homeworks and answer questions about the topics covered. I will also do my best to provide career advice, or at least point you towards resources that can give better advice than me. The purpose of this class is really just to help you, and I want to make these meetings very unstructured and open so that I can answer any questions you have.
 

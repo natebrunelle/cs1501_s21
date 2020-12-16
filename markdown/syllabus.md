@@ -4,9 +4,6 @@ title: Syllabus
 
 # Course Information
 
-## Course Description
-
-Did you just take CS 1110 and enjoy it, but you don’t know anything about the field of Computer Science? Are you pushing for a Computer Science minor but you don’t know what it could be useful for? Or, maybe you’re just interested in technology, and you want to know how computers work without taking a course like Computer Architecture. No matter what the case, if you want to know more about Computer Science, this course is for you. This course is designed to give a brief overview of the different programming practices, the theory behind Computer Science, and the many fields you can go into after graduation with as little code as possible. Topics covered in this course include: quantum computing, cybersecurity, machine learning and artificial intelligence, data analysis, bioinformatics, and many more. Throughout this course you’ll learn, laugh, cry, and most importantly learn to be incredibly afraid of computers, it’ll be a lot of fun!
 
 ## Contact
 
