@@ -3,7 +3,9 @@ title: cs1501
 ...
 # Why take this course?
 
-Did you just take CS 1110 or 2110 and enjoy it, but you don’t know the how "Computer Science" is different from "programming"? Are you considering a Computer Science major or minor but you don’t know what how to apply it outside of software development? Or, maybe you’re just interested in technology, and you want to know how computers work without taking a course like Computer Architecture. No matter what the case, if you want to know more about Computer Science, this course is for you. We hope to give a brief overview of the different programming practices, the big ideas behind Computer Science, and the many applications fields you can go into after graduation. Topics covered in this course include: quantum computing, cybersecurity, machine learning and artificial intelligence, data analysis, bioinformatics, and more! Throughout this course you’ll learn, laugh, cry (happy tears!), and most importantly learn to be incredibly impressed by (and maybe even a little afraid of) computers. It’ll be a blast!
+Did you just take CS 1110 or 2110 and enjoy it, but you don’t know the how "Computer Science" is different from "programming"? Are you considering a Computer Science major or minor but you don’t know what how to apply it outside of software development? Or, maybe you’re just interested in technology, and you want to know how computers work without taking a course like Computer Architecture. No matter what the case, if you want to broaden your understanding of Computer Science, this course is for you! 
+
+We hope to give a brief overview of some the big ideas behind Computer Science, and how to apply those ideas to a variety of fields. Topics covered in this course include: quantum computing, cybersecurity, machine learning and artificial intelligence, data analysis, bioinformatics, and more! Throughout this course you’ll learn, laugh, cry (happy tears!), and most importantly learn to be incredibly impressed by (and maybe even a little afraid of) computers. It’ll be a blast!
 
 
 # Course Overview 
@@ -20,13 +22,12 @@ The goal of this course is to provide a deeper understanding of the field of Com
 
 ## Learning Outcomes
 
-By the end of this course, you will have:
+By the end of this course, you will be able to:
 
-- Covered different topics that you will learn in other cs courses in a brief and interesting way
-- Discuss abstract concepts that motivate how we implement and use computers
-- Look at different application areas, career paths, cutting edge research and advancements in the field
-- Provide an overall better understanding of the computer science field as a whole and what the field is capable of
-- Become more prepared for the CS curriculum and have a better understanding of the CS field both in industry and academia
+- Identify the differences between Computer Science and programming
+- Contextualize content covered in other cs courses
+- Communicate the "hows" and "whys" of using computers for a variety of different domains
+- Identify new application areas, career paths, cutting edge advancements in Computer Science
 
 
 
