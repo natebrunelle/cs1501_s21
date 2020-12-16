@@ -46,6 +46,8 @@ Lectures will be held via [Zoom](https://virginia.zoom.us/my/ibrahimhamdy). Addi
 | Quizzes | 40 |
 | Final Exam | 12 |
 
+To earn credit in this course, you must accrue at least 60 points.
+
 ## Deadlines
 
 The deadline for each quiz is at 2:55pm on the Wednesday after the quiz is released. Quizzes will also be released each Wednesday directly after lecture.

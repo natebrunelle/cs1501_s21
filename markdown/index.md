@@ -14,8 +14,8 @@ The goal of this course is to provide a deeper understanding of the field of Com
 
 - How computers store, represent, and manipulate all sorts of things
 - How those representations can help and hinder what we can do with computers
-- How computers are actually able to enable certain applications, including:
-    - Computer networks and the internet
+- How computers actually enable certain applications, including:
+    - Computer networks and the Internet
     - Security and Encryption
     - Intelligence and learning
     - Genes and bioinformatics
@@ -30,10 +30,9 @@ By the end of this course, you will be able to:
 - Identify new application areas, career paths, cutting edge advancements in Computer Science
 
 
-
 ## Eligibility
 
-You should take this course if you've taken CS 1110 or have some similar level of knowledge about computer programming. You can take this course without having programmed before as there will be very little code in this course, and you will not have to write code yourself, however understanding how to read and write basic code makes understanding some course concepts easier.
+You should take this course if you've taken CS 1110 or have some background knowledge about computer programming. You can take this course without having programmed before as there will be very little code in this course, and you will not have to write code yourself, however understanding how to read and write basic code makes understanding some course concepts easier.
 
 
 ## Course Structure
